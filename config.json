@@ -1,0 +1,22 @@
+{
+  "brandName": "Expi Labs",
+  "apps": [
+    {
+      "name": "PR Gems",
+      "slug": "pr-gems",
+      "packageName": "com.WraparoundGames.PRGems",
+      "supportEmail": "expilabs7@gmail.com",
+      "website": null,
+      "effectiveDate": "February 9, 2026",
+      "dataPractices": {
+        "collectsPersonalInfo": false,
+        "usesAnalytics": "UNKNOWN",
+        "usesCrashReporting": "UNKNOWN",
+        "usesAds": "UNKNOWN",
+        "usesPayments": "UNKNOWN",
+        "accounts": "UNKNOWN",
+        "healthData": "UNKNOWN"
+      }
+    }
+  ]
+}

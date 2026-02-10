@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (in case of future tooling)
+node_modules/
+package-lock.json
+
+# Build artifacts
+PR Gems_BurstDebugInformation_DoNotShip/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+nul
