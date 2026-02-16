@@ -1,4 +1,4 @@
-# Privacy Policy — PR Gems
+# Privacy Policy
 
 **Last updated:** February 9, 2026
 
